@@ -10,7 +10,8 @@ Currently learning through the OpenStax Introduction to Python textbook (Chapter
 ## 🛠️ My Projects
 
 - 📇 [Contact Manager](https://github.com/NaijaCodeClinician/contact-manager) – CLI contact manager with phone/email validation.
-- 🔐 [Secure Password Kit](https://github.com/NaijaCodeClinician/Secure-password-kit-) – Password generator & strength checker.
+- 🔐 [Secure Password Kit](https://github.com/NaijaCodeClinician/secure-password-kit) – Password generator & strength checker.
+- 📝 [Todo List CLI](https://github.com/NaijaCodeClinician/todo-list-cli) – Task manager with add, view, and remove.
 
 *(More coming soon – Expense Tracker, Flashcard Quiz, JAMB Calculator, etc.)*
 
@@ -37,18 +38,3 @@ Currently learning through the OpenStax Introduction to Python textbook (Chapter
 ## 💡 Fun fact
 
 I started coding because I wanted to build things that matter. Every line of code is a step toward better healthcare in Nigeria.
-
-<!--
-**NaijaCodeClinician/NaijaCodeClinician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
