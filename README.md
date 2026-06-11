@@ -1,15 +1,9 @@
-
-# Add your project section, save (Ctrl+O, Enter, Ctrl+X)
-
-# Commit and push
-git add README.md
-git commit -m "Add UTME score calculator to profile README"
-git push# 👋 Hi, I'm Ihuomachi Azubuike (NaijaCodeClinician)
+# 👋 Hi, I'm Ihuomachi Azubuike (NaijaCodeClinician)
 
 🇳🇬 Nigerian | 🩺 Future physician · 🐍 Python developer
 
 I build tools that bridge medicine and technology.  
-Currently learning through the OpenStax Introduction to Python textbook (Chapter 8 – Strings).
+Currently learning through the OpenStax Introduction to Python textbook.
 
 ---
 
@@ -22,14 +16,16 @@ Currently learning through the OpenStax Introduction to Python textbook (Chapter
 
 ---
 
-## 📂 My Projects (Pinned)
+## 📂 My Projects
 
-- 📇 [Contact Manager](https://github.com/NaijaCodeClinician/contact-manager) – CLI contact manager with phone/email validation  
-- 🔐 [Secure Password Kit](https://github.com/NaijaCodeClinician/secure-password-kit) – Password generator & strength checker  
-- 📝 [Todo List CLI](https://github.com/NaijaCodeClinician/todo-list-cli) – Task manager with add/view/remove  
-- [![UTME Calculator](https://img.shields.io/badge/UTME-Score%20Calculator-blue?logo=python)](https://github.com/NaijaCodeClinician/utme-score-calculator) - CLI UTME Score Calculator with predefined subjects and functions
+| Project | Description |
+|---------|-------------|
+| [![Contact Manager](https://img.shields.io/badge/Contact%20Manager-📇-blue?style=flat-square)](https://github.com/NaijaCodeClinician/contact-manager) | CLI contact manager with phone/email validation |
+| [![Secure Password Kit](https://img.shields.io/badge/Secure%20Password%20Kit-🔐-green?style=flat-square)](https://github.com/NaijaCodeClinician/secure-password-kit) | Password generator & strength checker |
+| [![Todo List CLI](https://img.shields.io/badge/Todo%20List%20CLI-📝-orange?style=flat-square)](https://github.com/NaijaCodeClinician/todo-list-cli) | Task manager with add/view/remove |
+| [![UTME Score Calculator](https://img.shields.io/badge/UTME%20Score%20Calculator-📊-red?style=flat-square)](https://github.com/NaijaCodeClinician/utme-score-calculator) | CLI UTME score calculator with predefined subjects and grading |
 
-*(More coming soon – Expense Tracker, Flashcard Quiz, JAMB Calculator, etc.)*
+*More coming soon – Expense Tracker, Flashcard Quiz, JAMB Calculator, etc.*
 
 ---
 
