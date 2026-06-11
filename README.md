@@ -1,4 +1,10 @@
-# 👋 Hi, I'm Ihuomachi Azubuike (NaijaCodeClinician)
+
+# Add your project section, save (Ctrl+O, Enter, Ctrl+X)
+
+# Commit and push
+git add README.md
+git commit -m "Add UTME score calculator to profile README"
+git push# 👋 Hi, I'm Ihuomachi Azubuike (NaijaCodeClinician)
 
 🇳🇬 Nigerian | 🩺 Future physician · 🐍 Python developer
 
@@ -21,6 +27,7 @@ Currently learning through the OpenStax Introduction to Python textbook (Chapter
 - 📇 [Contact Manager](https://github.com/NaijaCodeClinician/contact-manager) – CLI contact manager with phone/email validation  
 - 🔐 [Secure Password Kit](https://github.com/NaijaCodeClinician/secure-password-kit) – Password generator & strength checker  
 - 📝 [Todo List CLI](https://github.com/NaijaCodeClinician/todo-list-cli) – Task manager with add/view/remove  
+- [![UTME Calculator](https://img.shields.io/badge/UTME-Score%20Calculator-blue?logo=python)](https://github.com/NaijaCodeClinician/utme-score-calculator) - CLI UTME Score Calculator with predefined subjects and functions
 
 *(More coming soon – Expense Tracker, Flashcard Quiz, JAMB Calculator, etc.)*
 
@@ -44,7 +51,7 @@ If you’re interested, open an issue or reach out via the links below.
 
 ## 🧠 What I'm Learning
 
-- Python (OpenStax Chapters 1–14)  
+- Python (OpenStax Chapters 1–15)  
 - Linux commands (Termux)  
 - Git & GitHub  
 - Building real‑world CLI apps  
